@@ -1,4 +1,10 @@
-﻿#include <stdio.h>
+/**
+* @file PK.срр
+* @author Харченко И.Ю., гр. 515-В
+* @date 03 июля 2021
+* @brief Практична работа
+*/
+#include <stdio.h>
 #include <locale.h>
 /**
 * @param xa, ya, xb, yb - координаты фигур
